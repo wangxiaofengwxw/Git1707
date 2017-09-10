@@ -12,5 +12,6 @@ public class GitTest {
 
       public void B() {
   		System.out.println("GitTest.A()");
+System.out.println("GitTest.A()");
   	}
 }
