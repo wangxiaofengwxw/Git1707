@@ -14,6 +14,7 @@ public class GitTest {
     	    	        System.out.println(s1 == s2);
     	    	        System.out.println(s1 == s3);
     	    	        System.out.println(s1 == s1.intern());
+    	    	        System.out.println();
     	    	    }
 }
 
